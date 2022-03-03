@@ -1,0 +1,15 @@
+C:\Users\thiag\Workspace VisualStudio\ExercicioPOOCalculadorDeImposto\bin\Debug\net6.0\ExercicioPOOCalculadorDeImposto.exe
+C:\Users\thiag\Workspace VisualStudio\ExercicioPOOCalculadorDeImposto\bin\Debug\net6.0\ExercicioPOOCalculadorDeImposto.deps.json
+C:\Users\thiag\Workspace VisualStudio\ExercicioPOOCalculadorDeImposto\bin\Debug\net6.0\ExercicioPOOCalculadorDeImposto.runtimeconfig.json
+C:\Users\thiag\Workspace VisualStudio\ExercicioPOOCalculadorDeImposto\bin\Debug\net6.0\ExercicioPOOCalculadorDeImposto.dll
+C:\Users\thiag\Workspace VisualStudio\ExercicioPOOCalculadorDeImposto\bin\Debug\net6.0\ref\ExercicioPOOCalculadorDeImposto.dll
+C:\Users\thiag\Workspace VisualStudio\ExercicioPOOCalculadorDeImposto\bin\Debug\net6.0\ExercicioPOOCalculadorDeImposto.pdb
+C:\Users\thiag\Workspace VisualStudio\ExercicioPOOCalculadorDeImposto\obj\Debug\net6.0\ExercicioPOOCalculadorDeImposto.csproj.AssemblyReference.cache
+C:\Users\thiag\Workspace VisualStudio\ExercicioPOOCalculadorDeImposto\obj\Debug\net6.0\ExercicioPOOCalculadorDeImposto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiag\Workspace VisualStudio\ExercicioPOOCalculadorDeImposto\obj\Debug\net6.0\ExercicioPOOCalculadorDeImposto.AssemblyInfoInputs.cache
+C:\Users\thiag\Workspace VisualStudio\ExercicioPOOCalculadorDeImposto\obj\Debug\net6.0\ExercicioPOOCalculadorDeImposto.AssemblyInfo.cs
+C:\Users\thiag\Workspace VisualStudio\ExercicioPOOCalculadorDeImposto\obj\Debug\net6.0\ExercicioPOOCalculadorDeImposto.csproj.CoreCompileInputs.cache
+C:\Users\thiag\Workspace VisualStudio\ExercicioPOOCalculadorDeImposto\obj\Debug\net6.0\ExercicioPOOCalculadorDeImposto.dll
+C:\Users\thiag\Workspace VisualStudio\ExercicioPOOCalculadorDeImposto\obj\Debug\net6.0\ref\ExercicioPOOCalculadorDeImposto.dll
+C:\Users\thiag\Workspace VisualStudio\ExercicioPOOCalculadorDeImposto\obj\Debug\net6.0\ExercicioPOOCalculadorDeImposto.pdb
+C:\Users\thiag\Workspace VisualStudio\ExercicioPOOCalculadorDeImposto\obj\Debug\net6.0\ExercicioPOOCalculadorDeImposto.genruntimeconfig.cache
